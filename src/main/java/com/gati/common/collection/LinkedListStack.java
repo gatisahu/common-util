@@ -3,6 +3,9 @@ package com.gati.common.collection;
 import java.util.EmptyStackException;
 import java.util.LinkedList;
 
+/**
+ * @author gati.sahu@gmail.com
+ */
 public class LinkedListStack<E> implements Stack<E> {
 
 	private final LinkedList<E> linkedList;

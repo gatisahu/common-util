@@ -6,7 +6,7 @@ package com.gati.common.collection;
 import java.util.EmptyStackException;
 
 /**
- * @author sahug
+ * @author gati.sahu@gmail.com
  *
  */
 public interface Stack<E> {

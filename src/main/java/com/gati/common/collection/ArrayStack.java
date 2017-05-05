@@ -13,7 +13,7 @@ import java.util.List;
  * ArrayList instead of a Vector, so it is not synchronized to protect against
  * multi-threaded access.
  * 
- * @author sahug
+ * @author gati.sahu@gmail.com
  *
  */
 public class ArrayStack<E> implements Stack<E> {
