@@ -68,6 +68,7 @@ public class TestArgumentCheckUtil {
 		try {
 			list =new ArrayList<String>();
 			assertNotNull(ArgumentCheckUtil.notEmpty(list, "listArgument"));
+			
 		} catch (final IllegalArgumentException e) {
 			System.out.println(e);
 		}
